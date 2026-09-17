@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurentius renz</h1>
 <h3 align="center">A passionate frontend developer from Spanyol</h3>
 
-- 🔭 I’m currently working on [Flow AI](https://github.com/Laurentius63/flow-ai)
+- 🔭 I’m currently working on [Flow AI](https://flow-ai-tep9.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
